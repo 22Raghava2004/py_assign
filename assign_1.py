@@ -16,5 +16,5 @@ elif operation=="/":
         print("division by zero is not allowed")
     else:
         div=num1/num2
-        print(f"the division of num1 and num2 is {div}")
+        print(f"the division of num1 and num2 jojo is {div}")
 
